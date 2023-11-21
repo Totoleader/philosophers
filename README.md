@@ -18,3 +18,4 @@ Major problems for this project:
   Another way to increase performance was to use system calls that tells threads to wait and give priority back to
   other threads while they do so.
   
+<img src="rendu/philo-demo.gif">
